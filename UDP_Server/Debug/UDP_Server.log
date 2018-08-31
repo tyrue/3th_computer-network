@@ -1,0 +1,7 @@
+﻿  UDP_server.cpp
+c:\users\doohyun\desktop\tcp_client\udp_server\udp_server.cpp(28): warning C4477: 'printf' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'LPVOID'입니다.
+c:\users\doohyun\desktop\tcp_client\udp_server\udp_server.cpp(77): warning C4129: '%': 문자 이스케이프 시퀀스를 인식할 수 없습니다.
+c:\users\doohyun\desktop\tcp_client\udp_server\udp_server.cpp(77): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(1868): note: 'inet_ntoa' 선언을 참조하십시오.
+  UDP_Server.vcxproj -> C:\Users\DooHyun\Desktop\TCP_Client\Debug\UDP_Server.exe
+  UDP_Server.vcxproj -> C:\Users\DooHyun\Desktop\TCP_Client\Debug\UDP_Server.pdb (Full PDB)

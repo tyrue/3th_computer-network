@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TCP_Client", "TCP_Client\TCP_Client.vcxproj", "{1B8D71BA-CB55-421F-83F0-7736ADACA417}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TCP_Server", "TCP_Server\TCP_Server.vcxproj", "{E2A7365C-996B-4A76-8213-B53CBD17E8D4}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "UDP_Server", "UDP_Server\UDP_Server.vcxproj", "{6B5FED99-55CB-4E89-88D1-FC17A81BE2B5}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "UDP_Client", "UDP_Client\UDP_Client.vcxproj", "{9D0391C6-FF6D-4D92-B844-97D640AB6B19}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1B8D71BA-CB55-421F-83F0-7736ADACA417}.Debug|Win32.ActiveCfg = Debug|Win32
+		{1B8D71BA-CB55-421F-83F0-7736ADACA417}.Debug|Win32.Build.0 = Debug|Win32
+		{1B8D71BA-CB55-421F-83F0-7736ADACA417}.Release|Win32.ActiveCfg = Release|Win32
+		{1B8D71BA-CB55-421F-83F0-7736ADACA417}.Release|Win32.Build.0 = Release|Win32
+		{E2A7365C-996B-4A76-8213-B53CBD17E8D4}.Debug|Win32.ActiveCfg = Debug|Win32
+		{E2A7365C-996B-4A76-8213-B53CBD17E8D4}.Debug|Win32.Build.0 = Debug|Win32
+		{E2A7365C-996B-4A76-8213-B53CBD17E8D4}.Release|Win32.ActiveCfg = Release|Win32
+		{E2A7365C-996B-4A76-8213-B53CBD17E8D4}.Release|Win32.Build.0 = Release|Win32
+		{6B5FED99-55CB-4E89-88D1-FC17A81BE2B5}.Debug|Win32.ActiveCfg = Debug|Win32
+		{6B5FED99-55CB-4E89-88D1-FC17A81BE2B5}.Debug|Win32.Build.0 = Debug|Win32
+		{6B5FED99-55CB-4E89-88D1-FC17A81BE2B5}.Release|Win32.ActiveCfg = Release|Win32
+		{6B5FED99-55CB-4E89-88D1-FC17A81BE2B5}.Release|Win32.Build.0 = Release|Win32
+		{9D0391C6-FF6D-4D92-B844-97D640AB6B19}.Debug|Win32.ActiveCfg = Debug|Win32
+		{9D0391C6-FF6D-4D92-B844-97D640AB6B19}.Debug|Win32.Build.0 = Debug|Win32
+		{9D0391C6-FF6D-4D92-B844-97D640AB6B19}.Release|Win32.ActiveCfg = Release|Win32
+		{9D0391C6-FF6D-4D92-B844-97D640AB6B19}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

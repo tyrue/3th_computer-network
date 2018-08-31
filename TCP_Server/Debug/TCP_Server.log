@@ -1,0 +1,14 @@
+﻿  TCP_server.cpp
+c:\users\doohyun\desktop\tcp_client\tcp_server\tcp_server.cpp(31): warning C4477: 'printf' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'LPCTSTR'입니다.
+  c:\users\doohyun\desktop\tcp_client\tcp_server\tcp_server.cpp(31): note: 서식 문자열에서 '%ls'을(를) 사용하는 것이 좋습니다.
+  c:\users\doohyun\desktop\tcp_client\tcp_server\tcp_server.cpp(31): note: 서식 문자열에서 '%lls'을(를) 사용하는 것이 좋습니다.
+  c:\users\doohyun\desktop\tcp_client\tcp_server\tcp_server.cpp(31): note: 서식 문자열에서 '%Ls'을(를) 사용하는 것이 좋습니다.
+  c:\users\doohyun\desktop\tcp_client\tcp_server\tcp_server.cpp(31): note: 서식 문자열에서 '%ws'을(를) 사용하는 것이 좋습니다.
+c:\users\doohyun\desktop\tcp_client\tcp_server\tcp_server.cpp(79): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(1868): note: 'inet_ntoa' 선언을 참조하십시오.
+c:\users\doohyun\desktop\tcp_client\tcp_server\tcp_server.cpp(96): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(1868): note: 'inet_ntoa' 선언을 참조하십시오.
+c:\users\doohyun\desktop\tcp_client\tcp_server\tcp_server.cpp(112): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(1868): note: 'inet_ntoa' 선언을 참조하십시오.
+  TCP_Server.vcxproj -> C:\Users\DooHyun\Desktop\TCP_Client\Debug\TCP_Server.exe
+  TCP_Server.vcxproj -> C:\Users\DooHyun\Desktop\TCP_Client\Debug\TCP_Server.pdb (Full PDB)
